@@ -1,0 +1,18 @@
+insert 5
+insert 1
+insert 10
+insert 31
+insert 23
+insert 33
+Insertion Error: 33 is already in the tree
+insert 34
+insert 18
+insert 17
+insert 19
+1 5 10 17 18 19 23 31 33 34
+33 is in the tree
+Finding Error: 15 is not in the tree
+delete 18
+Deletion Error: 17 is not in the tree
+delete 31
+1 5 10 17 19 23 33 34

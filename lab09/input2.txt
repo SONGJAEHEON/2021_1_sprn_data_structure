@@ -1,0 +1,63 @@
+n 10
+p
+p
+p
+d
+f 3
+i 3
+f 3
+d
+i 3
+p
+i 5
+p
+i 10
+p
+f 27
+i 27
+p
+i 30
+p
+i 30
+i 18
+p
+i 29
+p
+i 41
+p
+i 27
+p
+i 17
+p
+i 14
+p
+i 37
+p
+i 23
+p
+i 33
+p
+i 31
+p
+i 29
+d
+p
+d
+p
+d
+p
+d
+p
+d
+p
+d
+p
+d
+p
+d
+p
+d
+p
+d
+p
+d

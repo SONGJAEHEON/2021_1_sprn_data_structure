@@ -1,0 +1,14 @@
+Empty List!
+Finding(3) Failed: Element 3 is not in the list
+Insertion(3) Failed: cannot find the location to be inserted
+There already is an element with key 7. Insertion failed
+key: 7	key: 3	key: 4	key: 12	key: 11	key: 10
+Insertion(5) Failed: cannot find the location to be inserted
+Deletion(5) Failed: Element 5 is not in the list
+Deletion(5) Failed: Element 5 is not in the list
+Deletion(6) Failed: Element 6 is not in the list
+Deletion(9) Failed: Element 9 is not in the list
+Key of the previous node of 3 is 2
+Key of the previous node of 7 is head
+Key of the previous node of 2 is 7
+key: 7	key: 2	key: 3	key: 12	key: 11	key: 10

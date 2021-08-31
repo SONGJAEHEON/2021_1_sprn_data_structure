@@ -1,0 +1,2 @@
+Top Numbers : 4 7 3 5 6 5 8 56 4 2 2 54 9 63 2 3 6 57 3
+Error : Invalid Postfix Expression, [3] numbers are left!

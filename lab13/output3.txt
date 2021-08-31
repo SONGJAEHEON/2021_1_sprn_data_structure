@@ -1,0 +1,18 @@
+Insert 1 into address 1
+Insert 131 into address 2
+Insert 144 into address 6
+Insert 2 into address 3
+Insert 14 into address 5
+Insert 15 into address 7
+Insert 27 into address 4
+Insert 28 into address 12
+Insert 40 into address 11
+Insert 41 into address 10
+Insert 53 into address 0
+Insertion Error: table is full
+144 is in the table
+Insert 66 into address 9
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+53 1 131 2 27 14 144 15 0 66 41 40 28 

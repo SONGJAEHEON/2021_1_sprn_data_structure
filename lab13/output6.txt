@@ -1,0 +1,19 @@
+Insert 1 into address 1
+Insert 14 into address 2
+Insert 27 into address 3
+Insert 40 into address 4
+Insert 53 into address 5
+Insert 66 into address 6
+Insert 79 into address 7
+Insert 92 into address 8
+Insert 105 into address 9
+Insert 151 into address 10
+Insert 144 into address 11
+Insert 160 into address 12
+Insert 186 into address 0
+Insertion Error: table is full
+Delete 105
+Delete 66
+Insert 118 into address 6
+Insert 131 into address 9
+186 1 14 27 40 53 118 79 92 131 151 144 160 

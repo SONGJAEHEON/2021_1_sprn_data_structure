@@ -1,0 +1,25 @@
+Tree is empty
+insert 25
+insert 20
+insert 22
+20 is in the tree
+insert 36
+insert 30
+insert 28
+20 22 25 28 30 36
+insert 40
+insert 10
+insert 38
+insert 48
+insert 12
+insert 5
+Finding Error: 99 is not in the tree
+Deletion Error: 99 is not in the tree
+delete 20
+delete 40
+Insertion Error: 28 is already in the tree
+Insertion Error: 38 is already in the tree
+Insertion Error: 25 is already in the tree
+insert 99
+insert 20
+5 10 12 20 22 25 28 30 36 38 48 99

@@ -1,0 +1,2 @@
+Top Numbers : 4 7 3 6 3 10 40 4 0
+Error : Invalid Postfix Expression, Divide by Zero!

@@ -1,0 +1,62 @@
+Print Error: heap is empty
+Print Error: heap is empty
+Print Error: heap is empty
+Delete Error: heap is empty
+Finding Error: 3 is not in the heap
+insert 3
+3 is in the heap
+Max Element: 3 deleted
+insert 3
+3 
+insert 5
+5 3 
+insert 10
+10 3 5 
+Finding Error: 27 is not in the heap
+insert 27
+27 10 5 3 
+insert 30
+30 27 5 3 10 
+Insert Error: 30 is already in the heap
+insert 18
+30 27 18 3 10 5 
+insert 29
+30 27 29 3 10 5 18 
+insert 41
+41 30 29 27 10 5 18 3 
+Insert Error: 27 is already in the heap
+41 30 29 27 10 5 18 3 
+insert 17
+41 30 29 27 10 5 18 3 17 
+insert 14
+41 30 29 27 14 5 18 3 17 10 
+Insert Error: heap is full
+41 30 29 27 14 5 18 3 17 10 
+Insert Error: heap is full
+41 30 29 27 14 5 18 3 17 10 
+Insert Error: heap is full
+41 30 29 27 14 5 18 3 17 10 
+Insert Error: heap is full
+41 30 29 27 14 5 18 3 17 10 
+Insert Error: heap is full
+Max Element: 41 deleted
+30 27 29 17 14 5 18 3 10 
+Max Element: 30 deleted
+29 27 18 17 14 5 10 3 
+Max Element: 29 deleted
+27 17 18 3 14 5 10 
+Max Element: 27 deleted
+18 17 10 3 14 5 
+Max Element: 18 deleted
+17 14 10 3 5 
+Max Element: 17 deleted
+14 5 10 3 
+Max Element: 14 deleted
+10 5 3 
+Max Element: 10 deleted
+5 3 
+Max Element: 5 deleted
+3 
+Max Element: 3 deleted
+Print Error: heap is empty
+Delete Error: heap is empty

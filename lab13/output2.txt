@@ -1,0 +1,27 @@
+Insert 1 into address 1
+Insert 11 into address 11
+Insert 4 into address 4
+Insert 15 into address 2
+Insert 22 into address 9
+64 is not in the table
+Insertion Error: 22 already exists at address 9
+Insert 32 into address 6
+Insert 9 into address 10
+32 is in the table
+Insert 18 into address 5
+Insert 77 into address 12
+Insert 16 into address 3
+Insert 100 into address 0
+Insert 243 into address 7
+Insert 35 into address 8
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+Delete 4
+Delete 18
+Deletion Error: 4 is not in the table
+Deletion Error: 85 is not in the table
+100 1 15 16 0 0 32 243 35 22 9 11 77 

@@ -1,0 +1,17 @@
+Insert 1 into address 1
+Insert 14 into address 2
+Insert 27 into address 6
+Insert 40 into address 5
+Insert 53 into address 4
+Insert 66 into address 11
+Insert 79 into address 10
+Insert 92 into address 0
+Insert 105 into address 9
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: table is full
+Insertion Error: 105 already exists at address 9
+Insertion Error: table is full
+Insertion Error: table is full
+92 1 14 0 53 40 27 0 0 105 79 66 0 
